@@ -1,4 +1,4 @@
-array = ["kiwi", "durian"]
+array = ["kiwi", "durian", "starfruit"]
 def oxford_comma(array)
-array.join (" and ")
+puts "#{array[0]}, #{array[1], and #{array[2]}"
 end
